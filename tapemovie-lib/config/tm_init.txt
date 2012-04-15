@@ -1,0 +1,1 @@
+** DO NOT MODIFY! SUPER USER ONLY!;1;/tapemovie/windows/store bang;/tapemovie/shortcuts/reset bang;/tapemovie/preferencesmenu/fill bang;/tapemovie/windowsmenu/fill bang;100;/tapemovie/windows/write bang;10;/tapemovie/initmodules bang;** "/tapemovie/initmodules bang" should be the last item;

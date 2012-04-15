@@ -1,0 +1,1 @@
+/jbrcosa.1/sw 1;/jbrcosa.1/source /mov.1;/jbrcosa.1/br 1.65;/jbrcosa.1/co -1.94;/jbrcosa.1/sa 1.;/jbrcosa.1/neg 0;/jbrcosa.1/bw 0;

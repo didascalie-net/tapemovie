@@ -1,0 +1,1 @@
+/plasma.1/sw 1;/plasma.1/bypass 1;/plasma.1/source /mov.2;/plasma.1/source2 /plasma.1/plasma;/plasma.1/source3 /plasma.1/feedback;/plasma.1/motion 0.1;/plasma.1/color 0.;

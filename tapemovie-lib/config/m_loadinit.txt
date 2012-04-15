@@ -1,0 +1,13 @@
+** DO NOT MODIFY! SUPER USER ONLY!;
+1;
+/movie/autoconfig/load bang;
+100;
+/movie/windows/store bang;
+/movie/windowsmenu/clear bang;
+/movie/preferencesmenu/fill bang;
+/movie/verbose/check bang;
+/movie/nobuild 0;
+100;
+/movie/windows/recall bang;
+100;
+/movie/windows/write bang;

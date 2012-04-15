@@ -1,0 +1,1 @@
+** replace for comment;/blur.1/sw 1;/blur.1/source /mov.2;/blur.1/width 0.;/plane.1/source /blur.1;100;/blur.1/width 3. 5000;5000;/blur.1/width 0.;/blur.1/sw 0;

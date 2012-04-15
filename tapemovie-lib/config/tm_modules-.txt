@@ -1,0 +1,1 @@
+wii-c, osc tm_wii-client "wii+nunchuk OSC CLIENT version";shutter, devices tm_shutter "DMX shutters";p-raw, devices tm_pandei-raw "pandei-raw";

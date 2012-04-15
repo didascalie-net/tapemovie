@@ -1,0 +1,1 @@
+max v2;#N vpatcher 664 117 1062 279;#P window setfont "Sans Serif" 9.;#P window linecount 1;#P newex 42 44 264 196617 fwdmap $1_valn camtrkclient;#B color 5;#P comment 23 92 333 196617 arg 1 : sum param name (w/o "ct-" or "_valn" (ex \, sum \, p-sum \, etc.);#P pop;

@@ -1,0 +1,1 @@
+/counter.1/sw 1;/counter.1/mode 2;/counter.1/step 1.;/counter.1/min 49.;/counter.1/max 52.;/counter.1/ramp 0;/counter.1/trig no;/counter.1/reset 0;/counter.1/end/map/sw 1;/counter.1/end/map/speedlim 21;/counter.1/end/map/rampup 0.;/counter.1/end/map/rampdown 0.;/counter.1/end/map ljh 1. 1. 0. 1. trig 0. 0 0 0. 0. b;

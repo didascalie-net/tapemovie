@@ -1,0 +1,1 @@
+** tm_init2 is for init state parameters that are recalled AFTER tm_init has finished;1;/tapemovie/instruments/open bang;/tapemovie/shortcuts/sw 1;1;/oscreceive.1/sw 1;/oscreceive.1/port 8888;1;/oscsend.1/sw 1;/oscsend.1/port 9999;/oscsend.1/host 192.168.1.101;/oscsend.1/alias /external;1;/cuesheet/external/sw 1;1;/cuesheet.1/sw 1;

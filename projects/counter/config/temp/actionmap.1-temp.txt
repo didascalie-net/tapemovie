@@ -1,0 +1,15 @@
+/actionmap.1/in/module/name /mouse.1;
+/actionmap.1/in/module/parameter /mouse.1/button;
+/actionmap.1/in/action 0;
+/actionmap.1/in/value 0.;
+/actionmap.1/in/message 0;
+/actionmap.1/in/value/variation 0.;
+/actionmap.1/time/repeat 0.;
+/actionmap.1/time/wait 0.;
+/actionmap.1/out/module/name -;
+/actionmap.1/out/module/parameter -;
+/actionmap.1/out/action 3;
+/actionmap.1/out/value 0.;
+/actionmap.1/out/message 22 34;
+/actionmap.1/out/ramp 200;
+/actionmap.1/sw 1;

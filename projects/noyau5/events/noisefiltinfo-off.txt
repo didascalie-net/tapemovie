@@ -1,0 +1,9 @@
+** Delete mappings and init modules;
+/random.1/val/map/delete /filt.1/freq;
+/random.1/val/map/delete /filt.1/q;
+/random.1/val/map/delete /filt.1/gain;
+/random.1/val/map/delete /filt.1/az;
+;
+/random.1/init bang;
+/src.1/init bang;
+/filt.1/init bang;

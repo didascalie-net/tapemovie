@@ -1,0 +1,7 @@
+cams, C;
+ch.1, "1";
+ch.2, "2";
+ch.3, "3";
+ch.4, "4";
+out, O;
+network, N;

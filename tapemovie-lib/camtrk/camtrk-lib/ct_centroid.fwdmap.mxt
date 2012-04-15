@@ -1,0 +1,1 @@
+max v2;#N vpatcher 241 165 754 302;#P window setfont "Sans Serif" 9.;#P window linecount 1;#P newex 36 52 213 196617 fwdmap $1_y camtrkclient;#B color 5;#P newex 36 34 213 196617 fwdmap $1_x camtrkclient;#B color 5;#P comment 36 88 428 196617 arg 1 : centroid param name (w/o "ct-" or "_x" or "_y" (ex \, centroid \, p-centroid \, etc.);#P pop;

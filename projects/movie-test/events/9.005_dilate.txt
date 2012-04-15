@@ -1,0 +1,1 @@
+** replace for comment;/dilate.1/sw 1;/dilate.1/source /mov.2;/dilate.1/width 0.;/plane.1/source /dilate.1;100;/dilate.1/width 100. 5000;5000;/dilate.1/width 0. 500;500;/dilate.1/sw 0;

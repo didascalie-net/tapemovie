@@ -1,0 +1,1 @@
+/jwake/window, 561 218 842 346;/render/window, 911 232 1206 360;/out/window, 831 279 1158 491;/plane/window, 68 524 1137 863;/nurbs/window, 321 614 1374 808;/grid/window, 258 551 1296 879;/net/window, 71 680 356 808;/movie/patchers/window, 327 309 584 609;/movie/gl/window, 404 188 676 766;/movie/window, 0 176 512 286;

@@ -1,0 +1,1 @@
+/buffer.2/sw 1;/buffer.2/source /cam.1;/buffer.2/mode delay;/buffer.2/delay 0;/buffer.2/loop/record 0;/buffer.2/loop/record/fixed 0;/buffer.2/loop/play 0;/buffer.2/loop/autostart 1;/buffer.2/loop/mode palindrome;

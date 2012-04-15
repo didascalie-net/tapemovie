@@ -1,0 +1,1 @@
+max v2;#N vpatcher 43 64 275 239;#P outlet 43 96 15 0;#P inlet 43 50 15 0;#P window setfont "Sans Serif" 9.;#P newex 43 71 135 196617 biquad~ 1. -1. 0. -0.9997 0.;#P connect 1 0 0 0;#P connect 0 0 2 0;#P pop;

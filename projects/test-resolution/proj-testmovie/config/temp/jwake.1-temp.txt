@@ -1,0 +1,1 @@
+/jwake.1/sw 1;/jwake.1/source /cam.1;/jwake.1/feedfwd 0.14;/jwake.1/feedback 0.59;/jwake.1/bleed 0.15;/jwake.1/gain 1.;/jwake.1/normalize 0;

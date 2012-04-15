@@ -1,0 +1,1 @@
+/enttec.1/sw 1;/enttec.1/print 0;/enttec.1/function receive;/enttec.1/blackout 0;

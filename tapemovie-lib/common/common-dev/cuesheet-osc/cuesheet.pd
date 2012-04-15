@@ -1,0 +1,48 @@
+#N canvas 608 183 711 597 10;
+#X obj 8 6 dumpOSC 22222;
+#X obj 208 165 prepend add;
+#X obj 209 193 menubutton 124 25 empty empty 0 grey90 black grey95
+black -1;
+#X obj 171 74 route append;
+#X obj 209 233 unpack f s;
+#X obj 9 370 sendOSC;
+#X msg 29 171 disconnect;
+#X msg 11 145 connect localhost 33333;
+#X obj 266 299 prepend send /events.1/play;
+#X obj 11 119 loadbang;
+#X obj 269 267 route ready end;
+#X obj 231 271 nbx 5 14 -1e+37 1e+37 0 0 empty empty empty 0 -8 0 10
+-262144 -1 -1 0 256;
+#X obj 169 105 route end;
+#X obj 169 126 t 1 end;
+#X obj 11 72 nbx 5 14 -1e+37 1e+37 0 0 empty empty empty 0 -8 0 10
+-262144 -1 -1 7 256;
+#X msg 450 149 send /cuesheet.1/step/next \$1;
+#X obj 451 128 nbx 5 14 -1e+37 1e+37 0 0 empty empty empty 0 -8 0 10
+-262144 -1 -1 0 256;
+#X msg 528 191 send /cuesheet.1/go bang;
+#X obj 9 30 route /cuesheet.1/step/next /cuesheet.1/tosequence-menu
+/cuesheet.1/step/current /cuesheet.1/step/next;
+#X obj 308 99 print;
+#X connect 0 0 18 0;
+#X connect 0 0 19 0;
+#X connect 1 0 2 0;
+#X connect 2 0 4 0;
+#X connect 3 0 12 0;
+#X connect 3 1 2 0;
+#X connect 4 0 11 0;
+#X connect 4 1 10 0;
+#X connect 6 0 5 0;
+#X connect 7 0 5 0;
+#X connect 8 0 5 0;
+#X connect 9 0 7 0;
+#X connect 10 2 8 0;
+#X connect 12 0 13 0;
+#X connect 12 1 1 0;
+#X connect 13 0 2 0;
+#X connect 13 1 1 0;
+#X connect 15 0 5 0;
+#X connect 16 0 15 0;
+#X connect 17 0 5 0;
+#X connect 18 0 14 0;
+#X connect 18 1 3 0;

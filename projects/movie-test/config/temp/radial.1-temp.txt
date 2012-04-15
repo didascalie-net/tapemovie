@@ -1,0 +1,1 @@
+/radial.1/sw 1;/radial.1/source /mov.2;/radial.1/k1/val 151.;/radial.1/k1/pow -7;/radial.1/k2/val -176.;/radial.1/k2/pow -12;

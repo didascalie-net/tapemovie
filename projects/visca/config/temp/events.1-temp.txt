@@ -1,0 +1,6 @@
+/events.1/sw 1;
+/events.1/subfolder <none>;
+/events.1/type visca;
+/events.1/oscsendname <none>;
+/events.1/localsend 1;
+/events.1/interval 0;

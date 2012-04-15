@@ -1,0 +1,9 @@
+spat441, 9 t_mspat441 "4 hp low square - 4 hp high square - 1 hp center";
+spat421, 7 t_mspat421 "4 hp low square - 2 hp high st - 1 hp center";
+spat61, 7 t_mspat61 "6 hp square - 1 hp center";
+spat41, 5 t_mspat41 "4 hp square - 1 hp center";
+spat21, 3 t_mspat21 "2 hp stereo - 1 hp center";
+spat8, 8 t_mspat8 "8 hp circle";
+spat6, 6 t_mspat6 "6 hp rectangle";
+spat4, 4 t_mspat4 "4 hp square";
+spat2, 2 t_mspat2 "2 hp stereo";

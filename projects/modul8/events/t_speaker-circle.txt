@@ -1,0 +1,1 @@
+// crcfrq;/adc.1/in 1;** /adc.1/az 0;/adc.1/dist 1. 1000;/adc.1/crcfrq 0.1;/adc.1/height 0 1000;/adc.1/center 0 1000;/adc.1/pres 1;/adc.1/out 0.;

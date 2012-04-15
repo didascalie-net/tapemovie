@@ -1,0 +1,1 @@
+max v2;#N vpatcher 10 59 224 254;#P window setfont "Sans Serif" 9.;#P window linecount 1;#P newex 50 111 141 196617 prepend setcell $1 $2;#P message 50 89 39 196617 val \$1;#P inlet 50 30 15 0;#P outlet 50 133 15 0;#P connect 1 0 2 0;#P connect 2 0 3 0;#P connect 3 0 0 0;#P pop;

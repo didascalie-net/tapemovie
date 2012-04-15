@@ -1,0 +1,1 @@
+/oscsend.1/sw 1;/oscsend.1/port 44000;/oscsend.1/host 127.0.0.1;/oscsend.1/alias <none>;

@@ -1,0 +1,10 @@
+** DO NOT MODIFY! SUPER USER ONLY!;
+1;
+/camtrk/windows/store bang;
+/camtrk/windowsmenu/fill bang;
+/camtrk/preferencesmenu/fill bang;
+/camtrk/verbose/check bang;
+100;
+/camtrk/windows/recall bang;
+100;
+/camtrk/windows/write bang;

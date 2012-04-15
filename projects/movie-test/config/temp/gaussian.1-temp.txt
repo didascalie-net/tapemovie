@@ -1,0 +1,1 @@
+/gaussian.1/sw 1;/gaussian.1/source /mov.1;/gaussian.1/width/x 0.;/gaussian.1/width/y 0.;

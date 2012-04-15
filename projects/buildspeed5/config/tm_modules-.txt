@@ -1,0 +1,4 @@
+mapper, maps multimap /common "universal control to parameter mapper";
+oscsend, osc tm_udpsender /common "sender data from osc";oscreceive, osc tm_udpreceiver /common "receiver data from osc";midi, devices tm_midi 1 "MIDI data receptor";
+mouse, devices tm_mouse "mouse informations";random, controls tm_random "random generator";lfo, controls tm_lfo "lfo control generator";
+events, controls tm_events "create and manage events (not a sequencer)";

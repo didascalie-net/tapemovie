@@ -1,0 +1,1 @@
+max v2;#N vpatcher 40 55 440 355;#P outlet 241 105 15 0;#P window setfont "Sans Serif" 9.;#P window linecount 1;#P comment 115 197 200 196617 $1;#P comment 115 178 50 196617 replaces:;#P inlet 144 35 15 0;#P inlet 32 35 15 0;#P outlet 144 105 15 0;#P outlet 32 105 15 0;#P pop;

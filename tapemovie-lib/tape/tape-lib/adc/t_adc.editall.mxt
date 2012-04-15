@@ -1,0 +1,1 @@
+max v2;#N vpatcher 443 44 729 438;#P bpatcher 0 246 258 126 0 0 t_spat441.edit.mxt 0 $1;#P bpatcher 0 61 258 188 0 0 t_src.edit.mxt 0 $1/simul;#P bpatcher 0 0 258 64 0 0 t_adc.edit.mxt 0 $1;#P pop;

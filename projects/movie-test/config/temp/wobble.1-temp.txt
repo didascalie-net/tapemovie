@@ -1,0 +1,1 @@
+/wobble.1/sw 1;/wobble.1/source /mov.2;/wobble.1/amp/x 10.;/wobble.1/amp/y 10.;/wobble.1/freq/x 0.05;/wobble.1/freq/y 0.05;/wobble.1/radius 1.;

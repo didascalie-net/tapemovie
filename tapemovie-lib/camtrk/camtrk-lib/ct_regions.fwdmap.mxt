@@ -1,0 +1,1 @@
+max v2;#N vpatcher 607 278 1047 464;#P window setfont "Sans Serif" 9.;#P newex 42 68 302 196617 fwddirect $1_listn camtrkclient;#B color 5;#P comment 16 116 379 196617 arg 1 : regionlist param name (w/o "ct-" or "_listn" (ex \, regions \, regions \, etc.);#P pop;

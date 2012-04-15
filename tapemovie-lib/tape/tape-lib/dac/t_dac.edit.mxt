@@ -1,0 +1,1 @@
+max v2;#N vpatcher 401 44 680 314;#P origin 0 -5;#P bpatcher 0 186 257 63 0 0 t_delmin.edit.mxt 0 $1/del;#P objectname dac.1del;#P bpatcher 0 62 257 125 0 0 t_filt.edit.mxt 0 $1/filt;#P objectname dac.1filt;#P bpatcher 0 0 257 63 0 0 t_dac_.edit.mxt 0 $1;#P objectname dac.1;#P pop;

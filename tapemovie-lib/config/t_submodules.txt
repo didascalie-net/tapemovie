@@ -1,0 +1,1 @@
+adc, simul ngate afol pt cntrd zcross;dac, filt del;subb, filt del;

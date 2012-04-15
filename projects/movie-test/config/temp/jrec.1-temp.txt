@@ -1,0 +1,1 @@
+/jrec.1/sw 1;/jrec.1/source /cam.1;/jrec.1/realtime 1;/jrec.1/interp 0;/jrec.1/name <datetime>;/jrec.1/fps 25;/jrec.1/codec photojpeg;/jrec.1/quality normal;

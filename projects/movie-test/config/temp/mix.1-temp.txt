@@ -1,0 +1,1 @@
+/mix.1/sw 1;/mix.1/source /mov.1;/mix.1/source2 /mov.2;/mix.1/operator pass;/mix.1/in/scale 1.;/mix.1/in2/scale 1.;/mix.1/out/scale 1.;/mix.1/in/offset 0.;/mix.1/in2/offset 0.;/mix.1/out/offset 0.;

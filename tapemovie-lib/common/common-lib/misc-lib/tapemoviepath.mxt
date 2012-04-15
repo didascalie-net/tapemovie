@@ -1,0 +1,1 @@
+max v2;#N vpatcher 10 59 206 270;#P window setfont "Sans Serif" 9.;#P window linecount 1;#P newex 39 79 96 196617 v /tapemovie/path;#B color 4;#P newex 39 123 51 196617 tosymbol;#P newex 39 58 20 196617 t b;#P inlet 39 38 15 0;#P outlet 39 145 15 0;#P connect 1 0 2 0;#P connect 2 0 4 0;#P connect 4 0 3 0;#P connect 3 0 0 0;#P pop;

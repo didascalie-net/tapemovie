@@ -1,0 +1,16 @@
+/lfo.1/sw 1;
+/lfo.1/sinus/min -1.;
+/lfo.1/sinus/max 1.;
+/lfo.1/sinus/freq 0.1;
+/lfo.1/sinus/loop 2;
+/lfo.1/circle/speed 0.1;
+/lfo.1/circle/radius/x 4.;
+/lfo.1/circle/radius/y 4.;
+/lfo.1/sinus/map/sw 1;
+/lfo.1/sinus/map/speedlim 20;
+/lfo.1/sinus/map/rampup 0.;
+/lfo.1/sinus/map/rampdown 0.;
+/lfo.1/sinus/map /filt.1/freq -1. 1. 200. 8000. norm 0.15 0 0 0. 0.;
+/lfo.1/sinus/map /filt.1/q -1. 1. 0.707 8. norm 0.15 0 0 0. 0.;
+/lfo.1/sinus/map /filt.1/gain -1. 1. 0. -10. norm 0.15 0 0 0. 0.;
+/lfo.1/sinus/map /filt.1/az -1. 1. -90. 90. updwn 0.2 0 0 0. 0.;

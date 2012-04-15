@@ -1,0 +1,1 @@
+** replace for comment;/brcosa.1/sw 1;/brcosa.1/source /mov.2;100;/brcosa.1/br 2.2 1111;/brcosa.1/co -1.94 1111 -0.2;/brcosa.1/sa 1.;/brcosa.1/neg 0;/brcosa.1/bw 0;/plane.1/source /brcosa.1;1111;/brcosa.1/co 1. 1111 0.2;/brcosa.1/br 1. 1111 0.2;1111;/brcosa.1/sw 0;

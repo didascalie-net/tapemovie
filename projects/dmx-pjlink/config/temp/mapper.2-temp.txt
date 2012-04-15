@@ -1,0 +1,1 @@
+/mapper.2/sw 1;/mapper.2/source /pjlink.1/shutter/close;/mapper.2/speedlim 18;/mapper.2/rampup 0.;/mapper.2/rampdown 0.;/mapper.2 /pjlink.1/shutter 0. 0. 0. 1. trig 0. 0 0 0. 0. 0;

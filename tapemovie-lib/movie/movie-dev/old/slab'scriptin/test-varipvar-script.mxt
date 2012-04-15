@@ -1,0 +1,1 @@
+max v2;#N vpatcher 132 167 732 567;#P window setfont "Sans Serif" 9.;#P window linecount 1;#P newex 310 49 98 196617 vari /slot1/slideup;#P newex 320 69 71 196617 pvar /slideup;#P connect 0 0 1 0;#P connect 1 0 0 0;#P pop;

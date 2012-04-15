@@ -1,0 +1,1 @@
+/noiz.1/sw 1;/noiz.1/dim/x 320;/noiz.1/dim/y 240;/noiz.1/speedlim 40;

@@ -1,0 +1,1 @@
+** replace for comment;/sharpen.1/sw 1;/sharpen.1/source /mov.2;/sharpen.1/width 0.;/plane.1/source /sharpen.1;100;/sharpen.1/width 60. 5000;5100;/sharpen.1/width 0.;/sharpen.1/sw 0;

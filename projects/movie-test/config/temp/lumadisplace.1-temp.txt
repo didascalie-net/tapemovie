@@ -1,0 +1,1 @@
+/lumadisplace.1/sw 1;/lumadisplace.1/source /mov.2;/lumadisplace.1/amp/x 0.1;/lumadisplace.1/amp/y 0.1;/lumadisplace.1/offset/x 0.;/lumadisplace.1/offset/y 0.;

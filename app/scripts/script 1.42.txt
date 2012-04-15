@@ -1,0 +1,16 @@
+open thispatcherfolder work:/Users/renaudrubiano/Documents/SVN/tapemovie/branches/tapemovie1/tapemovie-lib/camtrk/
+folder work:/Users/renaudrubiano/Documents/SVN/tapemovie/branches/tapemovie1/tapemovie-lib/common/
+folder work:/Users/renaudrubiano/Documents/SVN/tapemovie/branches/tapemovie1/tapemovie-lib/devices/
+folder work:/Users/renaudrubiano/Documents/SVN/tapemovie/branches/tapemovie1/tapemovie-lib/externals_OSX/
+folder work:/Users/renaudrubiano/Documents/SVN/tapemovie/branches/tapemovie1/tapemovie-lib/light/
+folder work:/Users/renaudrubiano/Documents/SVN/tapemovie/branches/tapemovie1/tapemovie-lib/movie/
+folder work:/Users/renaudrubiano/Documents/SVN/tapemovie/branches/tapemovie1/tapemovie-lib/tape/
+appsplash work:/Users/renaudrubiano/Documents/SVN/tapemovie/app/images/tapemovie_splashscreen.pct
+appicon work:/Users/renaudrubiano/Documents/SVN/tapemovie/app/images/tapemovie.icns
+folder "work:/Applications/MaxMSP 4.6/Cycling '74/externals/"
+folder "work:/Applications/MaxMSP 4.6/Cycling '74/jitter-externals/"
+folder "work:/Applications/MaxMSP 4.6/Cycling '74/max-startup/"
+
+
+
+

@@ -1,9 +1,9 @@
 {
 	"patcher" : 	{
 		"fileversion" : 1,
-		"rect" : [ 683.0, 322.0, 629.0, 360.0 ],
+		"rect" : [ 683.0, 322.0, 518.0, 416.0 ],
 		"bglocked" : 0,
-		"defrect" : [ 683.0, 322.0, 629.0, 360.0 ],
+		"defrect" : [ 683.0, 322.0, 518.0, 416.0 ],
 		"openrect" : [ 0.0, 0.0, 0.0, 0.0 ],
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -28,7 +28,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 503.0, 266.0, 97.0, 17.0 ],
+					"patching_rect" : [ 214.0, 143.0, 97.0, 17.0 ],
 					"text" : "v /tapemovie/type"
 				}
 
@@ -43,7 +43,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 292.0, 257.0, 111.0, 17.0 ],
+					"patching_rect" : [ 301.0, 257.0, 111.0, 17.0 ],
 					"text" : "v /tapemovie/version"
 				}
 
@@ -58,7 +58,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 111.0, 257.0, 115.0, 17.0 ],
+					"patching_rect" : [ 120.0, 257.0, 115.0, 17.0 ],
 					"text" : "v /tapemovie/appname"
 				}
 
@@ -72,7 +72,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "bang", "bang", "application" ],
-					"patching_rect" : [ 111.0, 235.0, 381.0, 17.0 ],
+					"patching_rect" : [ 120.0, 235.0, 381.0, 17.0 ],
 					"text" : "t b b application"
 				}
 
@@ -86,7 +86,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 111.0, 301.0, 51.0, 17.0 ],
+					"patching_rect" : [ 120.0, 301.0, 51.0, 17.0 ],
 					"text" : "tosymbol"
 				}
 
@@ -100,8 +100,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 111.0, 279.0, 200.0, 17.0 ],
-					"text" : "sprintf ./%s-%s.app/Contents/support/"
+					"patching_rect" : [ 120.0, 279.0, 200.0, 17.0 ],
+					"text" : "sprintf ./%s%s.app/Contents/support/"
 				}
 
 			}
@@ -115,7 +115,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 269.0, 63.0, 87.0, 17.0 ],
+					"patching_rect" : [ 220.0, 92.0, 87.0, 17.0 ],
 					"text" : "v /tapemovie/os"
 				}
 
@@ -130,7 +130,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 168.0, 16.0, 137.0, 17.0 ],
+					"patching_rect" : [ 168.0, 27.0, 137.0, 17.0 ],
 					"text" : "r /tapemovie/isruntimeXP?"
 				}
 
@@ -145,7 +145,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 16.0, 16.0, 143.0, 17.0 ],
+					"patching_rect" : [ 16.0, 27.0, 143.0, 17.0 ],
 					"text" : "r /tapemovie/isruntimeOSX?"
 				}
 
@@ -163,7 +163,7 @@
 			}
 , 			{
 				"box" : 				{
-					"color" : [ 0.694118, 0.694118, 0.694118, 1.0 ],
+					"color" : [ 0.4, 0.4, 0.8, 1.0 ],
 					"fontname" : "Arial",
 					"fontsize" : 9.0,
 					"id" : "obj-11",
@@ -171,7 +171,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "windows" ],
-					"patching_rect" : [ 168.0, 36.0, 120.0, 17.0 ],
+					"patching_rect" : [ 168.0, 47.0, 62.0, 17.0 ],
 					"text" : "t i windows"
 				}
 
@@ -186,7 +186,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 183.0, 169.0, 293.0, 25.0 ],
+					"patching_rect" : [ 205.0, 165.0, 293.0, 25.0 ],
 					"text" : ";\rmax system macintosh getruntime /tapemovie/isruntimeOSX?"
 				}
 
@@ -200,7 +200,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 4,
 					"outlettype" : [ "", "bang", "int", "patch" ],
-					"patching_rect" : [ 111.0, 126.0, 411.0, 17.0 ],
+					"patching_rect" : [ 120.0, 121.0, 76.0, 17.0 ],
 					"text" : "t s b 0 patch"
 				}
 
@@ -215,14 +215,14 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 171.0, 200.0, 281.0, 25.0 ],
+					"patching_rect" : [ 193.0, 196.0, 281.0, 25.0 ],
 					"text" : ";\rmax system windows getruntime /tapemovie/isruntimeXP?"
 				}
 
 			}
 , 			{
 				"box" : 				{
-					"color" : [ 0.694118, 0.694118, 0.694118, 1.0 ],
+					"color" : [ 0.4, 0.4, 0.8, 1.0 ],
 					"fontname" : "Arial",
 					"fontsize" : 9.0,
 					"id" : "obj-15",
@@ -230,7 +230,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "macintosh" ],
-					"patching_rect" : [ 16.0, 36.0, 141.0, 17.0 ],
+					"patching_rect" : [ 16.0, 47.0, 68.0, 17.0 ],
 					"text" : "t i macintosh"
 				}
 
@@ -293,7 +293,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 111.0, 103.0, 15.0, 15.0 ]
+					"patching_rect" : [ 120.0, 103.0, 15.0, 15.0 ]
 				}
 
 			}
@@ -311,7 +311,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-10", 0 ],
 					"hidden" : 0,
-					"midpoints" : [ 177.5, 76.0, 46.0, 76.0 ],
+					"midpoints" : [ 177.5, 81.0, 46.0, 81.0 ],
 					"source" : [ "obj-11", 0 ]
 				}
 
@@ -336,10 +336,9 @@
 			}
 , 			{
 				"patchline" : 				{
-					"color" : [ 0.317647, 0.709804, 0.321569, 1.0 ],
 					"destination" : [ "obj-10", 0 ],
 					"hidden" : 0,
-					"midpoints" : [ 381.833344, 154.0, 536.0, 154.0, 536.0, 96.0, 46.0, 96.0 ],
+					"midpoints" : [ 167.5, 143.0, 198.0, 143.0, 198.0, 94.0, 46.0, 94.0 ],
 					"source" : [ "obj-13", 2 ]
 				}
 
@@ -348,7 +347,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-12", 0 ],
 					"hidden" : 0,
-					"midpoints" : [ 251.166672, 156.0, 192.5, 156.0 ],
+					"midpoints" : [ 148.5, 151.0, 214.5, 151.0 ],
 					"source" : [ "obj-13", 1 ]
 				}
 
@@ -357,7 +356,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-14", 0 ],
 					"hidden" : 0,
-					"midpoints" : [ 251.166672, 148.0, 180.5, 148.0 ],
+					"midpoints" : [ 148.5, 167.0, 202.5, 167.0 ],
 					"source" : [ "obj-13", 1 ]
 				}
 
@@ -367,7 +366,7 @@
 					"color" : [ 0.156863, 0.8, 0.54902, 1.0 ],
 					"destination" : [ "obj-17", 0 ],
 					"hidden" : 0,
-					"midpoints" : [ 381.833344, 159.0, 545.0, 159.0, 545.0, 88.0, 25.0, 88.0 ],
+					"midpoints" : [ 167.5, 146.0, 203.0, 146.0, 203.0, 88.0, 25.0, 88.0 ],
 					"source" : [ "obj-13", 2 ]
 				}
 
@@ -392,7 +391,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"color" : [ 1.0, 0.337255, 0.337255, 1.0 ],
 					"destination" : [ "obj-7", 0 ],
 					"hidden" : 0,
 					"midpoints" : [  ],
@@ -494,7 +492,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-16", 0 ],
 					"hidden" : 0,
-					"midpoints" : [ 120.5, 327.0, 25.0, 327.0 ],
+					"midpoints" : [ 129.5, 327.0, 25.0, 327.0 ],
 					"source" : [ "obj-5", 0 ]
 				}
 

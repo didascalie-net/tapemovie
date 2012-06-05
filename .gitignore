@@ -1,3 +1,7 @@
 .DS_Store
 tapemovie-lib/externals_OSX
+<<<<<<< HEAD
 tapemovie-lib/filepaths.txt
+=======
+tapemovie-lib/filepaths.txt
+>>>>>>> .gitignore

@@ -1,6 +1,4 @@
 cam.1/capture, 1;
-cam.2/capture, 1;
-cams/mix, 1;
 cam.1/resize, 1;
 cam.1/dualop.1, 1;
 cam.1/dualop.2, 1;

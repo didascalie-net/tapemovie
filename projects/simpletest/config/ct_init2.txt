@@ -29,11 +29,11 @@
 /udpsend.5/host 192.168.1.6;
 /udpsend.5/port 44012;
 ** tapemovie;
-/udpsend.6/sw 0;
+/udpsend.6/sw 1;
 /udpsend.6/host 127.0.0.1;
 /udpsend.6/port 44012;
 ** udp receive;
-/udpreceive/sw 0;
+/udpreceive/sw 1;
 /udpreceive/port 44102;
 ** net send;
 /out/netsend/ip 127.0.0.1;

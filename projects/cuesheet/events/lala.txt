@@ -1,1 +1,1 @@
-** replace for comment;/cuesheet.1/go 1.000;
+** replace for comment;

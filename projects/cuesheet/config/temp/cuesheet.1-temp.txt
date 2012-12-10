@@ -1,0 +1,1 @@
+/cuesheet.1/sw 1;/cuesheet.1/dest /events.1/play;/cuesheet.1/step/ready 1;/cuesheet.1/autofill/sw 1;/cuesheet.1/autofill/folder pop;/cuesheet.1/shortcut/go 32;/cuesheet.1/step/next 0;/cuesheet.1/step/next/inc 0;/cuesheet.1/step/next/dec 0;/cuesheet.1/loop 0;/cuesheet.1/autocue 0;/cuesheet.1/autocue/time 500;

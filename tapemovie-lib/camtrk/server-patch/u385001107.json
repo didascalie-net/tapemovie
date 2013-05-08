@@ -1,0 +1,33 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u385001107",
+		"slots" : 		{
+			"10" : 			{
+				"id" : 10,
+				"data" : 				{
+					"/camtrk/presetname" : [ "test presett" ],
+					"/camtrk/sw" : [ 1 ],
+					"/camtrk/inverthoriz" : [ 1 ],
+					"/camtrk/brightness" : [ 1.0 ],
+					"/camtrk/contrast" : [ 1.0 ],
+					"/camtrk/saturation" : [ 1.0 ],
+					"/camtrk/diff/thresh" : [ 0.2 ],
+					"/camtrk/cntrd/smoothing" : [ 200 ],
+					"/camtrk/grid/slideup" : [ 2.0 ],
+					"/camtrk/grid/slidedown" : [ 5.0 ],
+					"/camtrk/grid/x" : [ 3 ],
+					"/camtrk/grid/y" : [ 3 ],
+					"/camtrk/grid/inmax" : [ 255 ],
+					"/camtrk/grid/disp/gain" : [ 2.0 ],
+					"/camtrk/udpsend/sw" : [ 0 ],
+					"/camtrk/udpsend/host" : [ "localhost" ],
+					"/camtrk/udpsend/port" : [ 44013 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,1 @@
+/tapemovie/window, 0 44 512 154;/tapemovie/tm_patchers/window, 409 197 809 693;/events/window, 11 193 554 372;/lfo/window, 66 166 1097 512;/random/window, 72 264 1125 484;/mouse/window, 509 247 1054 482;/midi/window, 894 251 1174 734;/oscreceive/window, 26 271 586 425;/oscsend/window, 121 263 1172 417;/mapper/window, 111 44 1405 488;

@@ -1,1 +1,0 @@
-/jrota.1/sw 1;/jrota.1/source /mov.1;/jrota.1/boundmode 0;/jrota.1/interp 1;/jrota.1/zoom/x 1.;/jrota.1/zoom/y 1.;/jrota.1/offset/x 0;/jrota.1/offset/y 0;/jrota.1/theta 0.;/jrota.1/anchor/x 320.;/jrota.1/anchor/y 240.;

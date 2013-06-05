@@ -1,1 +1,0 @@
-max v2;#N vpatcher 172 117 480 677;#P window setfont "Sans Serif" 9.;#P comment 1 7126 100 196617;#P window linecount 1;#N thispatcher;#Q end;#P hidden newobj 812 44 61 196617 thispatcher;#N comlet text;#P hidden inlet 812 23 15 0;#P window linecount 0;#P comment 1 1 100 196617;#P hidden connect 1 0 2 0;#P pop;

@@ -1,5 +1,0 @@
-camtrk, v;
-cameras, c;
-channels_1&2, 1;
-channels_3&4, 3;
-network, n;

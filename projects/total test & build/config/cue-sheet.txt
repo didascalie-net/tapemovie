@@ -1,1 +1,0 @@
-movie_00, "Ouverture de la camera et projection sur un plan" 999 - open play write erase;

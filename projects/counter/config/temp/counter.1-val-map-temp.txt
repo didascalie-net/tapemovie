@@ -1,1 +1,0 @@
-/counter.1/val/map/sw 1;/counter.1/val/map/speedlim 16;/counter.1/val/map/rampup 0.;/counter.1/val/map/rampdown 0.;/counter.1/val/map test 0. 0. 0. 1. direct 0. 0 0 0. 0. 1000;

@@ -1,1 +1,0 @@
-/movie/patchers/window, 327 309 584 609;/movie/gl/window, 404 188 676 766;/movie/window, 0 176 512 286;/thresh/window, 343 346 627 503;/render/window, 0 44 268 172;/out/window, 831 279 1158 491;/nurbs/window, 180 567 467 883;/mov/window, 861 46 1415 196;

@@ -1,5 +1,0 @@
-/lfo.1/sinus/map/sw 1;
-/lfo.1/sinus/map/speedlim 20;
-/lfo.1/sinus/map/rampup 0.;
-/lfo.1/sinus/map/rampdown 0.;
-/lfo.1/sinus/map /filt.1/freq -1. 1. 200. 8000. norm 0.15 0 0 0. 0.;

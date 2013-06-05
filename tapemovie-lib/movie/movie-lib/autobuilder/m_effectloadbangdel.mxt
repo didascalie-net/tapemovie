@@ -1,1 +1,0 @@
-max v2;#N vpatcher 20 74 217 212;#P window setfont "Sans Serif" 9.;#P window linecount 1;#P newex 50 50 38 196617 del 10;#P inlet 50 30 15 0;#P outlet 50 72 15 0;#P connect 1 0 2 0;#P connect 2 0 0 0;#P pop;

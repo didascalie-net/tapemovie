@@ -1,1 +1,0 @@
-** out 1024 768;/out.1/pos/x 25;/out.1/pos/y 100;/out.1/sw 1;/out.1/depthbuffer 1;/out.1/doublebuffer 1;/out.1/mode auto;/out.1/colormode argb;/out.1/size/x 1024;/out.1/size/y 768;/out.1/sync 0;/out.1/interp 0;/out.1/fsaa 1;/out.1/floating 0;/out.1/border 1;/out.1/fsmenubar 1;

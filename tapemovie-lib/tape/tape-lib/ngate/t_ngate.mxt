@@ -1,1 +1,0 @@
-max v2;#N vpatcher 389 87 752 297;#P window setfont "Sans Serif" 9.;#P window linecount 1;#P newex 62 121 135 196617 send $1/out~;#B color 4;#P newex 62 65 119 196617 receive~ $1/in~;#B color 4;#P comment 26 19 287 196617 arg 1 : module prefix name \;;#P newex 62 93 243 196617 poly~ t_ngate_ 1 args $1;#B color 6;#P connect 2 0 0 0;#P connect 0 0 3 0;#P pop;

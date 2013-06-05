@@ -1,1 +1,0 @@
-/tapemovie/tm_patchers/window, 592 57 1000 741;

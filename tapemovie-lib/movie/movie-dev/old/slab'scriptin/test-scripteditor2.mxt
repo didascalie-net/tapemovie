@@ -1,1 +1,0 @@
-max v2;#N vpatcher 30 89 449 283;#P window setfont Times 9.;#P window linecount 1;#P comment 35 75 100 1310729 adfasdfa;#B frgb 0 0 222;#P flonum 136 75 35 9 0 0 0 20 0 0 0 221 221 221 222 222 222 0 0 0;#P number 136 60 35 9 -100 1000 3 20 0 0 0 221 221 221 222 222 222 0 0 0;#P comment 35 60 100 1310729 adfasdfa;#B frgb 0 0 222;#P pop;

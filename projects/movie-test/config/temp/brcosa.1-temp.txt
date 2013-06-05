@@ -1,1 +1,0 @@
-/brcosa.1/sw 1;/brcosa.1/bypass 0;/brcosa.1/source /mov.1;/brcosa.1/br 1.;/brcosa.1/co 1.;/brcosa.1/sa 1.;/brcosa.1/neg 1;/brcosa.1/bw 1;

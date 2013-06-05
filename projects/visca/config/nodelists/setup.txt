@@ -1,4 +1,0 @@
-/oscsend.1
-/oscreceive.1
-/serial.1
-/events.1/interval

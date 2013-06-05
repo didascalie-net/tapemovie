@@ -1,1 +1,0 @@
-/jblur.1/sw 1;/jblur.1/source /mov.1;/jblur.1/amount 48;/jblur.1/feedback 0.93;

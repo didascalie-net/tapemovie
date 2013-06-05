@@ -1,1 +1,0 @@
-max v2;#N vpatcher 93 44 360 209;#P window setfont "Sans Serif" 9.;#P newex 21 31 70 196617 r camtrk-init;#B color 11;#P newex 21 75 50 196617 deferlow;#P newex 21 53 103 196617 loadmess store $1 0;#N coll ct_modules 1;#P newobj 21 96 89 196617 coll ct_modules 1;#B color 5;#P connect 3 0 1 0;#P connect 1 0 2 0;#P connect 2 0 0 0;#P pop;

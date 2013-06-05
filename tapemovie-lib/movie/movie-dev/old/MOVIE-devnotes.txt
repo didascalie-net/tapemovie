@@ -1,9 +1,0 @@
-MOVIE - dev notes
-
-
-3 nov 07
-fixed plane fliph and flipv. they now work with bangs and truly invert actual values instead of automatically going to full screen...
-
-added nubrs01 (experimental and "en cours")
-
-

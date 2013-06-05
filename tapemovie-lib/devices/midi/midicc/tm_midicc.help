@@ -1,1 +1,0 @@
-max v2;#N vpatcher 306 288 923 631;#P window setfont "Sans Serif" 9.;#P window linecount 1;#N coll /midicc.1/controls;#P newobj 198 294 116 196617 coll /midicc.1/controls;#P newex 200 254 104 196617 tm_midicc /midicc.1;#P bpatcher 18 35 512 186 0 0 tm_midicc.edit.mxt 0 /midicc.1;#P pop;

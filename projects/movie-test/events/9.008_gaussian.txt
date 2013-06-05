@@ -1,1 +1,0 @@
-** replace for comment;/gaussian.1/sw 1;/gaussian.1/source /mov.2;/gaussian.1/width/x 0.;/gaussian.1/width/y 0.;/plane.1/source /gaussian.1;100;/gaussian.1/width/x 10. 3000;/gaussian.1/width/y -10. 3000;3000;/gaussian.1/width/x 0. 500;/gaussian.1/width/y 0. 500;500;/gaussian.1/sw 0;

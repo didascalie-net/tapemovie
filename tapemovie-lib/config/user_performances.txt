@@ -1,1 +1,0 @@
-preempt, 0;slop, 25.;sleep, 2;pollthrottle, 20;queuethrottle, 10;eventinterval, 30;interval, 1.;

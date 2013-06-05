@@ -1,5 +1,0 @@
-** tm_init2 is for init state parameters that are recalled AFTER tm_init has finished;
-1;
-/tapemovie/instruments/open bang;
-/tapemovie/shortcuts/sw 1;
-/tapemovie/instuments/init bang;

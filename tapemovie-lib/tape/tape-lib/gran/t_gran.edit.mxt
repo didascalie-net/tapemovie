@@ -1,1 +1,0 @@
-max v2;#N vpatcher 128 67 412 709;#P bpatcher 0 370 256 248 0 0 t_granAB.edit.mxt 0 $1 $1/B 1;#P bpatcher 0 123 256 248 0 0 t_granAB.edit.mxt 0 $1 $1/A 1;#P bpatcher 0 0 256 124 0 0 t_gran-.edit.mxt 0 $1 1;#P pop;

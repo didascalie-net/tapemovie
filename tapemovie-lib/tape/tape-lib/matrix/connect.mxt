@@ -1,1 +1,0 @@
-max v2;#N vpatcher 40 55 325 250;#N comlet to change_state;#P outlet 34 143 15 0;#P window setfont "Sans Serif" 9.;#P window linecount 1;#P newex 34 64 156 196617 t i b i;#N comlet zone number;#P inlet 34 38 15 0;#P newex 107 99 78 196617 pack nsub 0 4 2;#P connect 1 0 2 0;#P connect 2 0 3 0;#P connect 0 0 3 0;#P connect 2 1 0 0;#P connect 2 2 0 1;#P pop;

@@ -1,1 +1,0 @@
-mov, 2 640 480;cam, 1 640 480;noiz, 0 320 240;rec, 0 640 480;ch, 4 movie 640 480;plan, 4 movie;grid, 2 movie;nurbs, 2 movie;boids, 1 movie;render, 1 movie;

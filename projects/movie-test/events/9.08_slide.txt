@@ -1,1 +1,0 @@
-** replace for comment;/slide.1/sw 1;/slide.1/source /mov.2;/slide.1/source2 /slide.1/feedback;/slide.1/slideup 0;/slide.1/slidedown 0.;/plane.1/source /slide.1;100;/slide.1/slideup 10.06 3000;3000/slide.1/slidedown 94. 3000;3000;/slide.1/slideup 0 400;/slide.1/slidedown 0. 400;400;/slide.1/sw 0;

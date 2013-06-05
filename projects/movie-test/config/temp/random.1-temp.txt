@@ -1,1 +1,0 @@
-/random.1/sw 1;/random.1/val/min 0.;/random.1/val/max 1.;/random.1/time/min 1.;/random.1/time/max 1.;/random.1/trans/min 0.;/random.1/trans/max 100.;/random.1/val/map/sw 1;/random.1/val/map/speedlim 21;/random.1/val/map/rampup 0.;/random.1/val/map/rampdown 0.;/random.1/val/map "/nurbs.1/mtrxctl/list 10 10" 0. 1. 0. 1. norm 0. 0 0 0. 0.;

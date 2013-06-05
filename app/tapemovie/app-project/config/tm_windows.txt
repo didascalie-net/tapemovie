@@ -1,1 +1,0 @@
-/tapemovie/window, 3 44 515 154;/tapemovie/tm_patchers/window, 732 162 1132 658;/tapemovie/config/window, 519 44 1052 866;/MIDI-test/window, 177 199 638 596;/tape/config/window, 514 69 1048 785;/movie/config/window, 500 106 1033 862;

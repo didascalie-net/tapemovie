@@ -1,1 +1,0 @@
-/emboss.1/sw 1;/emboss.1/source /mov.1;/emboss.1/width 2.;/emboss.1/offset/red 0.5;/emboss.1/offset/green 0.5;/emboss.1/offset/blue 0.5;/emboss.1/offset/alpha 0.5;

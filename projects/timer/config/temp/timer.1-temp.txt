@@ -1,3 +1,0 @@
-/timer.1/sw 1;
-/timer.1/rate 1000;
-/timer.1/user/reset 0;

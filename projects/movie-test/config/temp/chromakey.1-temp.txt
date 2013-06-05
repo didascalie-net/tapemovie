@@ -1,1 +1,0 @@
-/chromakey.1/sw 1;/chromakey.1/source /mov.1;/chromakey.1/source2 /cam.1;/chromakey.1/tol 0.;/chromakey.1/fade 0.;/chromakey.1/invert 0;/chromakey.1/binary 1.;/chromakey.1/color/red 0.184314;/chromakey.1/color/green 0.345098;/chromakey.1/color/blue 0.470588;/chromakey.1/color/alpha 1.;/chromakey.1/preview 1;

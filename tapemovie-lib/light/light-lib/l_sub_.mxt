@@ -1,1 +1,0 @@
-max v2;#N vpatcher -14 44 331 287;#P window setfont "Sans Serif" 9.;#P newex 55 173 169 196617 s $1;#P newex 55 136 121 196617 scalecurv 0 100 0 $2 0.;#P newex 55 94 171 196617 r $3;#P connect 0 0 1 0;#P connect 1 0 2 0;#P pop;

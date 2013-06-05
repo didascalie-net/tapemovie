@@ -1,1 +1,0 @@
-/mtrx/bkgndcolor, 235 235 235;/mtrx/gridcolor, 190 190 210;/mtrx/textcolor, 0 0 255;/mtrx/textmutecolor, 55 186 217;/mtrx/textoffcolor, 128 128 128;

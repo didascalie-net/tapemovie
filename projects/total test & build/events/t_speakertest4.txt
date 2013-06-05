@@ -1,1 +1,0 @@
-/adc.1/az -135;/adc.1/dist 1.42;/adc.1/crcfrq 0;/adc.1/height 0;/adc.1/center 0;/adc.1/pres 1;/adc.1/out 0.;

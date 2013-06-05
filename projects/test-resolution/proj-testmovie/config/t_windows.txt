@@ -1,1 +1,0 @@
-/samples/window, 1025 44 1298 309;/fxmeters/window, 163 235 885 363;/iometers/window, 398 334 752 476;/mtrx/window, 130 121 638 669;/tests/window, 134 119 598 836;/tape/t_patchers/window, 785 292 1308 778;/tape/window, 514 44 1026 154;/subb/window, 80 171 762 466;/dac/window, 80 171 1204 442;/reson/window, 309 129 1110 533;

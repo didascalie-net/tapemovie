@@ -1,1 +1,0 @@
-max v2;#N vpatcher 846 391 1027 541;#P window setfont "Sans Serif" 9.;#P window linecount 1;#P newex 21 31 65 196617 r movie-init;#P newex 21 73 50 196617 deferlow;#P newex 21 51 153 196617 loadmess store $1 0;#N coll effects 1;#P newobj 21 92 74 196617 coll effects 1;#P connect 3 0 1 0;#P connect 1 0 2 0;#P connect 2 0 0 0;#P pop;

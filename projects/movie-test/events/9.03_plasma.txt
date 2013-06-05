@@ -1,1 +1,0 @@
-** replace for comment;/plasma.1/sw 1;/plasma.1/bypass 0;/plasma.1/source /mov.2;/plasma.1/source2 /plasma.1/plasma;/plasma.1/source3 /plasma.1/feedback;/plasma.1/motion 4.26;/plasma.1/color 0.9819;/plane.1/source /plasma.1;5000;/plasma.1/sw 0;

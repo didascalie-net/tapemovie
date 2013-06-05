@@ -1,1 +1,0 @@
-/jcrop.1/sw 1;/jcrop.1/source /mov.2;/jcrop.1/left 111;/jcrop.1/right 640;/jcrop.1/top 154;/jcrop.1/bot 480;

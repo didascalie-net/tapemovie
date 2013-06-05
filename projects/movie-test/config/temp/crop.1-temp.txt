@@ -1,1 +1,0 @@
-/crop.1/sw 1;/crop.1/source /mov.2;/crop.1/crop/top 0.7;/crop.1/crop/left 0.39;/crop.1/crop/bottom 0.18;/crop.1/crop/right 0.58;/crop.1/edge/top 0.;/crop.1/edge/left 0.;/crop.1/edge/bottom 0.;/crop.1/edge/right 0.;/crop.1/zoom/x 1.;/crop.1/zoom/y 1.;/crop.1/offset/x 0.;/crop.1/offset/y 0.;/crop.1/interp 0;/crop.1/bypass 0;

@@ -1,5 +1,0 @@
-/lfo.1/circle/x/map/sw 1;
-/lfo.1/circle/x/map/speedlim 20;
-/lfo.1/circle/x/map/rampup 0.;
-/lfo.1/circle/x/map/rampdown 0.;
-/lfo.1/circle/x/map <none> -4. 4. 100. 10000. norm 0. 0 0 0. 0.;

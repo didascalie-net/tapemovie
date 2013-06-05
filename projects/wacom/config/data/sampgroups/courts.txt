@@ -1,1 +1,0 @@
-1, rythm1_1.aif;2, gouttes_1.aif;3, kick_bas_1.aif;4, maracas_1.aif;5, gloup_bloup_1.aif;6, gloup_clic_1.aif;

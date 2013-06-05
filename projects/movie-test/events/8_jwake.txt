@@ -1,1 +1,0 @@
-** replace for comment;/jwake.1/sw 1;/jwake.1/source /mov.2;/jwake.1/feedfwd 0.1;/jwake.1/feedback 0.6;/jwake.1/bleed 0.15;/jwake.1/gain 1.;/jwake.1/normalize 0;/plane.1/source /jwake.1;3000;/jwake.1/sw 0;

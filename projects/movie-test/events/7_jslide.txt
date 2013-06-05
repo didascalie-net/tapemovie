@@ -1,1 +1,0 @@
-** replace for comment;/jslide.1/sw 1;/jslide.1/source /mov.2;/jslide.1/slideup 0.;/jslide.1/slidedown 0.;/plane.1/source /jslide.1;10;/jslide.1/slideup 10. 2000;/jslide.1/slidedown 20. 2000;2100;/jslide.1/slideup 0. 2000;/jslide.1/slidedown 0. 2000;2000;/jslide.1/sw 0;

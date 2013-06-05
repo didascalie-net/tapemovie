@@ -1,1 +1,0 @@
-/samples/window, 1025 44 1298 309;/fxmeters/window, 376 225 1098 353;/iometers/window, 398 334 752 476;/tape/t_patchers/window, 474 184 997 670;/tape/window, 512 44 1024 154;

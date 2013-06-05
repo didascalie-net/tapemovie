@@ -1,1 +1,0 @@
-** replace for comment;/jblur.1/sw 1;/jblur.1/sw 1;/jblur.1/source /mov.2;/jblur.1/amount 1. 3000;/jblur.1/feedback 0.93 3000;/plane.1/source /jblur.1;3000;/jblur.1/amount 0. 3000;/jblur.1/feedback 0 3000;3000;/jblur.1/sw 0;

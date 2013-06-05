@@ -1,1 +1,0 @@
-/slide.1/sw 1;/slide.1/source /cam.1;/slide.1/source2 /slide.1/feedback;/slide.1/slideup 0.;/slide.1/slidedown 0.;/slide.1/feedback/sw 0;

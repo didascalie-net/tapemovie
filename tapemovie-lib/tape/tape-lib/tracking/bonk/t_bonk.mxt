@@ -1,1 +1,0 @@
-max v2;#N vpatcher 214 110 588 314;#P window setfont "Sans Serif" 9.;#P newex 39 66 119 196617 receive~ $1/in~;#B color 4;#P comment 39 43 132 196617 arg 1 : module prefix name;#P newex 39 99 264 196617 poly~ t_bonk_ 1 vs 64 args $1;#B color 6;#P comment 61 135 189 196617 bonk must run at signal vector 64;#P connect 3 0 1 0;#P pop;

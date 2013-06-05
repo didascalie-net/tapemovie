@@ -1,1 +1,0 @@
-/mapper.1/sw 1;/mapper.1/source /cuesheet.1/end;/mapper.1/speedlim 18;/mapper.1/rampup 0.;/mapper.1/rampdown 0.;/mapper.1 /modul8.1/entrypoint 0. 1. 0. 1. norm 0. 0 0 0. 0.;

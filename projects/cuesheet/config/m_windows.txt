@@ -1,1 +1,0 @@
-/slide/window, 376 261 995 500;/mask/window, 376 261 787 429;/blur/window, 376 261 995 500;/brcosa/window, 376 261 995 500;/render/window, 0 44 516 198;/out/window, 831 279 1158 491;/nurbs/window, 187 422 470 688;/cam/window, 72 264 1125 458;/movie/patchers/window, 327 309 584 609;/movie/gl/window, 404 188 676 766;/movie/window, 0 176 512 286;

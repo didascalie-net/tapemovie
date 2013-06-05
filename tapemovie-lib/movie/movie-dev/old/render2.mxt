@@ -1,1 +1,0 @@
-max v2;#N vpatcher 29 439 737 797;#P origin 0 -84;#P window setfont "Sans Serif" 9.;#P window linecount 2;#P message 378 157 180 196617 \; /render.1 shared_context monmovie \;;#P bpatcher 88 132 257 127 0 0 m_render.edit.mxt 0 /render.2 /out.2;#P window linecount 1;#P newex 42 68 150 196617 m_render /render.2 monmovie;#P pop;

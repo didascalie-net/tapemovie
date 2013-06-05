@@ -1,1 +1,0 @@
-/camtrkLE/window, 514 54 1026 164;/cams/window, 878 44 1142 516;/ch.1/window, 364 143 624 873;/network/window, 982 138 1274 833;/camtrk/ct_patchers/window, 475 338 1292 668;/out/window, 263 181 700 799;/ch.2/window, 625 143 885 873;

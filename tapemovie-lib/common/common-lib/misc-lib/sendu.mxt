@@ -1,1 +1,0 @@
-max v2;#N vpatcher 20 74 273 221;#P inlet 19 49 15 0;#P window setfont "Sans Serif" 9.;#P window linecount 1;#P newex 124 49 67 196617 loadmess $1;#P inlet 39 49 15 0;#P newex 19 101 184 196617 forward;#B color 12;#P newex 39 72 95 196617 sprintf send %s%s;#B color 12;#P connect 4 0 1 0;#P connect 0 0 1 0;#P connect 2 0 0 0;#P connect 3 0 0 1;#P pop;

@@ -1,1 +1,0 @@
-/jslide.1/sw 1;/jslide.1/source /mov.1;/jslide.1/slideup 0.;/jslide.1/slidedown 0.;

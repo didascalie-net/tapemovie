@@ -1,1 +1,0 @@
-/tapemovie/tm_patchers/window, 721 99 1194 705;/tapemovie/config/window, 361 179 894 849;/cuesheet/window, 11 193 554 372;/events/window, 11 193 554 372;/oscreceive/window, 3 266 284 356;/oscsend/window, 1 178 283 267;/mapper/window, 111 44 1405 488;/videOSC/window, 19 434 290 812;/tapemovie/window, 0 44 512 153;

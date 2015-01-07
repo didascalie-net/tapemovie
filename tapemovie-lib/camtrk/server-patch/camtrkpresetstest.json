@@ -1,0 +1,71 @@
+{
+	"pattrstorage" : 	{
+		"name" : "camtrkpresets",
+		"slots" : 		{
+			"10" : 			{
+				"id" : 10,
+				"name" : "toreson",
+				"data" : 				{
+					"/ct2/grab/state" : [ "opened" ],
+					"/ct2/vdevice" : [ "Built-in iSight" ],
+					"/ct2/input" : [ "" ],
+					"/ct2/grab/sw" : [ 1 ],
+					"/ct2/grab/inverthoriz" : [ 1 ],
+					"/ct2/brcosa/sw" : [ 0 ],
+					"/ct2/brcosa/brightness" : [ 1.0 ],
+					"/ct2/brcosa/contrast" : [ 1.0 ],
+					"/ct2/brcosa/saturation" : [ 1.0 ],
+					"/ct2/1/rota/sw" : [ 0 ],
+					"/ct2/1/rota/zoom/x" : [ 1.0 ],
+					"/ct2/1/rota/zoom/y" : [ 1.0 ],
+					"/ct2/1/rota/anchor/x" : [ 160 ],
+					"/ct2/1/rota/anchor/y" : [ 120 ],
+					"/ct2/1/rota/offset/x" : [ 0 ],
+					"/ct2/1/rota/offset/y" : [ 0 ],
+					"/ct2/1/rota/theta" : [ 0.0 ],
+					"/ct2/1/rota/boundmode" : [ 1 ],
+					"/ct2/1/diff/sw" : [ 1 ],
+					"/ct2/1/diff/thresh" : [ 0.2 ],
+					"/ct2/1/cntrd/sw" : [ 0 ],
+					"/ct2/1/cntrd/smoothing" : [ 200 ],
+					"/ct2/1/grid/sw" : [ 1 ],
+					"/ct2/1/grid/slideup" : [ 2.0 ],
+					"/ct2/1/grid/slidedown" : [ 5.0 ],
+					"/ct2/1/grid/x" : [ 8 ],
+					"/ct2/1/grid/y" : [ 8 ],
+					"/ct2/1/grid/inmax" : [ 255 ],
+					"/ct2/1/grid/disp/gain" : [ 2.0 ],
+					"/ct2/2/rota/sw" : [ 0 ],
+					"/ct2/2/rota/zoom/x" : [ 1.0 ],
+					"/ct2/2/rota/zoom/y" : [ 1.0 ],
+					"/ct2/2/rota/anchor/x" : [ 160 ],
+					"/ct2/2/rota/anchor/y" : [ 120 ],
+					"/ct2/2/rota/offset/x" : [ 0 ],
+					"/ct2/2/rota/offset/y" : [ 0 ],
+					"/ct2/2/rota/theta" : [ 0.0 ],
+					"/ct2/2/rota/boundmode" : [ 1 ],
+					"/ct2/2/diff/sw" : [ 1 ],
+					"/ct2/2/diff/thresh" : [ 0.2 ],
+					"/ct2/2/cntrd/sw" : [ 0 ],
+					"/ct2/2/cntrd/smoothing" : [ 200 ],
+					"/ct2/2/grid/sw" : [ 0 ],
+					"/ct2/2/grid/slideup" : [ 2.0 ],
+					"/ct2/2/grid/slidedown" : [ 5.0 ],
+					"/ct2/2/grid/x" : [ 3 ],
+					"/ct2/2/grid/y" : [ 3 ],
+					"/ct2/2/grid/inmax" : [ 255 ],
+					"/ct2/2/grid/disp/gain" : [ 2.0 ],
+					"/ct2/udpsend/sw" : [ 1 ],
+					"/ct2/udpsend/host" : [ "localhost" ],
+					"/ct2/udpreceive/port" : [ 44021 ],
+					"/ct2/udpreceive/sw" : [ 1 ],
+					"/ct2/udpsend/port" : [ 44020 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

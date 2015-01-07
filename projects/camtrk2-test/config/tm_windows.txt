@@ -1,0 +1,1 @@
+/tapemovie/window, -1 44 511 154;/tapemovie/tm_patchers/window, 409 197 809 693;/tapemovie/config/window, 519 44 1052 866;/tape/config/window, 514 69 1048 785;/events/window, 11 193 554 346;/mouse/window, 509 247 1054 456;/midi/window, 894 251 1174 708;/ct2/window, 341 198 879 468;
